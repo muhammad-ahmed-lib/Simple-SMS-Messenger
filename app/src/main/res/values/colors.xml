@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="splash_bg">#0874F0</color>
+    <color name="border_color">#CCCCCC</color>
+    <color name="charcoal_color">#333333</color>
+    <color name="light_grey">#AAAAAA</color>
+    <color name="primary_Color">#0874F0</color>
+    <color name="light_bg_Color">#00000008</color>
+    <color name="blueCommon0874f0">#0874F0</color>
+    <color name="blue_15_opacity">#0874F026</color>
+    <color name="textColor333333">#333333</color>
+
+
+</resources>
